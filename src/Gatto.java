@@ -1,6 +1,7 @@
 public class Gatto extends Animale {
 
-    public static String faiIlVerso() {
-        return "meow";
+    @Override
+    public void faiIlVerso() {
+        System.out.println("il verso dell'animale è: meow");
     }
 }

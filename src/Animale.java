@@ -1,6 +1,6 @@
 public class Animale {
 
-    public static String faiIlVerso() {
-        return "woof";
+    public void faiIlVerso() {
+        System.out.println("il verso dell'animale è: ");
     }
 }

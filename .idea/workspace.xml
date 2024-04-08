@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="614a9dfa-e0b4-4fbf-9758-8898b830a5b7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Animale.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Gatto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Animale.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Animale.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gatto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gatto.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,21 +25,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "ebielle"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ebielle&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/ebielle/ereditarieta1.git",
-    "accountId": "c74e3c0a-e602-48f8-9664-ae5afa30a17f"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ebielle/ereditarieta1.git&quot;,
+    &quot;accountId&quot;: &quot;c74e3c0a-e602-48f8-9664-ae5afa30a17f&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2epNaOTHRV1ktCrQVdK5l4YRNmX" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -51,6 +52,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/erika/Desktop/javabasics/eserciziConGitHub",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -76,7 +78,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1712597621738</updated>
-      <workItem from="1712597622735" duration="860000" />
+      <workItem from="1712597622735" duration="3748000" />
+      <workItem from="1712604104472" duration="720000" />
     </task>
     <servers />
   </component>
